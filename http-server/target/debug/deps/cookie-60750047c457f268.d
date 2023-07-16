@@ -1,0 +1,11 @@
+/Users/dylanpacheco/Documents/GitHub/rust-projects/http-server/target/debug/deps/cookie-60750047c457f268.rmeta: /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs
+
+/Users/dylanpacheco/Documents/GitHub/rust-projects/http-server/target/debug/deps/cookie-60750047c457f268.d: /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs
+
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs:

@@ -1,0 +1,11 @@
+/Users/dylanpacheco/Documents/GitHub/rust-projects/http-server/target/debug/deps/url-51d6e602517351ef.rmeta: /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs
+
+/Users/dylanpacheco/Documents/GitHub/rust-projects/http-server/target/debug/deps/url-51d6e602517351ef.d: /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs /Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs
+
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs:
+/Users/dylanpacheco/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs:
