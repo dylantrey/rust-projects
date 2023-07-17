@@ -1,0 +1,1 @@
+/Users/dylanpacheco/Documents/GitHub/rust-projects/minigrep/target/debug/minigrep: /Users/dylanpacheco/Documents/GitHub/rust-projects/minigrep/src/lib.rs /Users/dylanpacheco/Documents/GitHub/rust-projects/minigrep/src/main.rs
